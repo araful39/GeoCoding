@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:untitled10/home.dart';
+
+import 'geo_locator/geo_locator.dart';
 
 void main() {
-  runApp(const HomePage());
+  runApp(const GeolocatorWidget());
 }
