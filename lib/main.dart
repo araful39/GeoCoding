@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import 'geo_locator/geo_locator.dart';
+import 'google_map/google_map.dart';
 
 void main() {
-  runApp(const GeolocatorWidget());
+  runApp( MyApp());
 }
